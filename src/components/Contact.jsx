@@ -25,7 +25,12 @@ function Contact() {
   
   function handleSubmit(event){
     event.preventDefault();
-    console.log(userData)
+    setUserData({
+      "name": "",
+      "email": "",
+      "number": "",
+      "message": ""
+    })
     alert("Hey! Apologies, reach out on my phone please, this feature is under development")
   }
 
@@ -47,7 +52,7 @@ function Contact() {
               <div className="row mt-5 p-2 d-flex align-items-center">
                 <div className="col-lg-4 my-lg-0 my-3 flex-item" >
                     <div data-aos="zoom-in-up">
-                        <a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.143614342114!2d80.25446801523186!3d13.090083315808135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5265e73ca52363%3A0xa1a2b001199452e3!2sPerumalpet%2C%20Purasaiwakkam%2C%20Chennai%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1665051449489!5m2!1sen!2sin">
+                        <a href="https://www.google.com/maps?ll=13.090078,80.256657&z=15&t=m&hl=en&gl=IN&mapclient=embed&q=Perumalpet+Purasaiwakkam+Chennai,+Tamil+Nadu">
                         <div className="card card-hover">
                         <div className="card-header my-2 p-3">
                           <div className="rounded-circle border-5">
@@ -61,7 +66,7 @@ function Contact() {
                       </div>      
                       </a> 
                     </div>
-                 </div>
+                </div>
 
                 <div className="col-lg-4 my-lg-0 my-3 flex-item">
                 <a href="tel:9080819249">
