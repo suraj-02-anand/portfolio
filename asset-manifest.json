@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.0f7b9383.css",
-    "main.js": "/portfolio/static/js/main.2f51953c.js",
+    "main.js": "/portfolio/static/js/main.9ce20a23.js",
     "static/media/Self-01.jpg": "/portfolio/static/media/Self-01.3e0c0fe2d54810af1a3b.jpg",
     "static/media/skills-bg.jpg": "/portfolio/static/media/skills-bg.893b4bbe6d2ed1ac5bd3.jpg",
     "static/media/code-bg.jpg": "/portfolio/static/media/code-bg.dcae12b44ed55590c0f8.jpg",
@@ -9,7 +9,7 @@
     "static/media/dark-pc.jpg": "/portfolio/static/media/dark-pc.ba8ec50da4720707a014.jpg",
     "static/media/bookstore.png": "/portfolio/static/media/bookstore.0d99515d19d1575e9c22.png",
     "static/media/nodejs.png": "/portfolio/static/media/nodejs.e03a74dbe44bb2dd9e9c.png",
-    "static/media/Resume.pdf": "/portfolio/static/media/Resume.434b8aaf0e95b9f645c4.pdf",
+    "static/media/Resume.pdf": "/portfolio/static/media/Resume.71c0ec825948fe8cad41.pdf",
     "static/media/linux.png": "/portfolio/static/media/linux.b9373807be8c9c788d78.png",
     "static/media/Portfolio.jpg": "/portfolio/static/media/Portfolio.3846bb5b93ad1baf6dcf.jpg",
     "static/media/self-02.jpg": "/portfolio/static/media/self-02.4f316e499c4353e5c904.jpg",
@@ -23,10 +23,10 @@
     "static/media/msoffice.png": "/portfolio/static/media/msoffice.a0f9480cb125f826e9ad.png",
     "index.html": "/portfolio/index.html",
     "main.0f7b9383.css.map": "/portfolio/static/css/main.0f7b9383.css.map",
-    "main.2f51953c.js.map": "/portfolio/static/js/main.2f51953c.js.map"
+    "main.9ce20a23.js.map": "/portfolio/static/js/main.9ce20a23.js.map"
   },
   "entrypoints": [
     "static/css/main.0f7b9383.css",
-    "static/js/main.2f51953c.js"
+    "static/js/main.9ce20a23.js"
   ]
 }
