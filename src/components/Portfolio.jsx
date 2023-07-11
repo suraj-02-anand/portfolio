@@ -67,7 +67,7 @@ function Portfolio() {
   
     return (                  
       <div className="col-md-4 col-12">
-        <div className="card card-hover-1 my-3 text-center mx-auto bg-dark text-white" data-aos="fade-up" style={{width:"270px"}} onClick={handleClick}>
+        <div className="card card-hover-1 my-3 text-center mx-auto" data-aos="fade-up" style={{width:"270px"}} onClick={handleClick}>
             <div className="card-img-top d-flex p-1">
                 <img className="text-center mx-auto my-auto img-fluid rounded-1" src={props.data.img}  />
             </div>
@@ -104,7 +104,7 @@ function Portfolio() {
                 })}
                 </div>
                 
-                <p className='fs-4 text-center text-white mt-5'> Stay tuned! A lot more to come here ! </p>
+                <p className='fs-4 text-center text-white my-5'> Stay tuned! A lot more to come here ! </p>
 
             </div>
         </div>
