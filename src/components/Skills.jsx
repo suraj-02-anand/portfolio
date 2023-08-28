@@ -5,7 +5,7 @@ function Skills() {
     <>
       <div data-bs-spy="scroll" data-bs-target="#navbar" data-bs-root-margin="0px 0px" data-bs-smooth-scroll="true" className="scrollspy-example" tabindex="0" ></div>
       
-      <div className="d-flex min-vh-100 align-items-center justify-content-center">
+      <div className="d-flex min-vh-100 align-items-center justify-content-center p-4">
         <section id="skills">
             <div className="container text-white">
 

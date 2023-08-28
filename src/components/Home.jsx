@@ -15,7 +15,7 @@ function Home() {
 
     return (
     <>
-        <div className='home'>     
+        <div className='home' id="home">     
             <div className="d-flex min-vh-100 text-white align-items-center">
                 <div className="container-fluid">
 

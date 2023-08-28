@@ -1,31 +1,10 @@
 import React from 'react'
 import { useState ,useEffect } from 'react'
 import "../styles/Portfolio.css"
-
+import {data} from '../assets/PortfolioData'
 function Portfolio() {
 
-  const data = [{
-    id:1,
-    type:"WebApp",
-    text:"Online Book Store",
-    img: require('../images/bookstore.png'),
-    url:"https://sj-portfolio.netlify.app/"
-    },
-    {
-    id:2,
-    type: "WebApp",
-    text:"Portfolio",
-    img: require('../images/Portfolio.jpg'),
-    url:"https://sj-portfolio.netlify.app/"
-    },
-    {
-      id:3,
-      type: "WebApp",
-      text:"Student Portal",
-      img: require("../images/Student_Portal.jpg"),
-      url:"https://quiet-beyond-48389.herokuapp.com/"
-    },
-  ]
+  
 
   const [dispData , setDispData] = useState([{}])
 
