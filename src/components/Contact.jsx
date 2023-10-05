@@ -97,7 +97,7 @@ function Contact() {
                   </div>
                   <div className="card-body">
                       <p className="fs-5 text-uppercase my-2">Email</p>
-                      <p className="">suraj07.anand@gmail.com</p>
+                      <p className="">suraj02anand@gmail.com</p>
                   </div>
                 </div>
                 </a>
